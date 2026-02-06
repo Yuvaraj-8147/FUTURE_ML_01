@@ -39,4 +39,13 @@ https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
 ---
 
-## 📈 Results & Business Insi
+## 📈 Results & Business Insights
+- The model captures sales trends based on historical data  
+- Forecasting helps businesses:
+  - Improve inventory planning  
+  - Reduce stock shortages and excess inventory  
+  - Support better decision-making  
+
+---
+
+## 📁 Repository Structure
